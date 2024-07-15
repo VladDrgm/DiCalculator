@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiCalculatorApi", "DiCalculatorApi\DiCalculatorApi.csproj", "{FCA6C24A-004A-4081-A267-18944F3D1C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiCalculatorDomain", "DiCalculatorDomain\DiCalculatorDomain.csproj", "{6F8078BC-78E1-40C8-8988-645F5424C8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{D8DC485D-E399-4964-BFC8-EF4FA4B03020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCA6C24A-004A-4081-A267-18944F3D1C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA6C24A-004A-4081-A267-18944F3D1C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA6C24A-004A-4081-A267-18944F3D1C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA6C24A-004A-4081-A267-18944F3D1C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8078BC-78E1-40C8-8988-645F5424C8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8078BC-78E1-40C8-8988-645F5424C8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8078BC-78E1-40C8-8988-645F5424C8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8078BC-78E1-40C8-8988-645F5424C8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DC485D-E399-4964-BFC8-EF4FA4B03020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DC485D-E399-4964-BFC8-EF4FA4B03020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DC485D-E399-4964-BFC8-EF4FA4B03020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DC485D-E399-4964-BFC8-EF4FA4B03020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
